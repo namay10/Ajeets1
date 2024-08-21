@@ -1,0 +1,133 @@
+{
+    "Header": {
+
+        "title": "We are Ajeets ",
+        "paragraph": "Empowering businesses with skilled manpower solutions, our agency delivers customized staffing services designed to optimize productivity, streamline operations, and drive success.From sourcing top-tier talent to managing staffing logistics, we're dedicated to meeting your workforce requirements efficiently and effectively."
+
+    },
+    "About": {
+        "paragraph": "AJEETS Management and Manpower Consultancy supplies overseas workers, which the world needs. AJEETS was established in the year 2006 and for the last 15+ years, we have been a leading International Manpower Recruitment Agency that is actively involved in offering global recruitment services across the globe. We hire candidates for several industries from countries like India, Nepal, Bangladesh, Sri Lanka, the Philippines, Kenya, and Uganda. India as one of the most populated countries is the biggest hub of talent, not only India, the other countries have a lot of skilled manpower.",
+        "p2": "For the last 18 years, AJEETS has been working day and night for the candidates and the clients. We have always delivered on our candidates' and clients' expectations. We provide professional recruitment in Far East Countries, the Middle East, Europe, North America, and the Asia Pacific. As the best overseas job consultancy, we guarantee that our new hires will be valuable assets to your company in the future."
+        
+    },
+    "Services": [{
+            "icon": "fa fa-globe",
+            "name": "International Recruitment Services",
+            "text": "Stands as a top international employment agency, offering skilled and unskilled manpower worldwide."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "Turnkey Solutions",
+            "text": "Specializes in efficient turnkey solutions for companies needing bulk hires swiftly."
+        },
+        {
+            "icon": "fa fa-search",
+            "name": "Executive Search",
+            "text": "Boasts expert executive recruiters for optimal job-role matching across various industries."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Permanent Migration",
+            "text": "Facilitates permanent migration with comprehensive visa and relocation assistance."
+        },
+        {
+            "icon": "fa fa-building",
+            "name": "Shutdown Turnaround Maintenance ",
+            "text": "Provides skilled manpower for industrial plant shutdown maintenance."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "National Recruitment Services",
+            "text": "AJEETS offers top-tier global recruitment services for both skilled and unskilled candidates."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/qatar.jpg",
+            "text": "\"For the last few years, we were searching for efficient candidates and then we found AJEETS. AJEETS has worked professionally, and diligently, and has provided us with the best candidates for our project. For the effortless work, we always prefer AJEETS for hiring manpower for our various projects.\"",
+            "name": "Ramz, KSA, Steel Manufacturing"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Always a pleasure to work with AJEETS for its professionalism and effortless service. It always looked impossible to get efficient candidates for Hospitality, but after getting in touch with AJEETS, I am breathing some fresh air. AJEETS is great. So happy to work with AJEETS.\"",
+            "name": "Elite Hospitality, Bahrain, Hospitality"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"AJEETS is a dedicated Human Resource consultancy. Thank you will not be enough to say to the whole team of Ajeets for their hard work. It was great meeting Mr. Radha Madhav Jena and for his efforts, we are having amazing candidates.\"",
+            "name": "Gulf Catering Support Services, UAE, Catering Management"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"I have found AJEETS very helpful and supportive during all our recruitment processes for various projects. Their process of recruiting a candidate is very smooth and hassle-free and the candidates they have provided us are of great caliber and have hit the ground running.\"",
+            "name": " Katara Hospitality, Qatar Hospitality"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Massive thanks to Ajeets, India, and its team for recruiting efficient candidates whenever we needed them. Great candidate selection and most accommodating.\"",
+            "name": "Holiday Villa, Bahrain, Hospitality"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "A - 407, Western Edge 2, Borivali (East), Mumbai, 400066, Maharashtra, India. ",
+        "phone": "+91 731 459 9864",
+        "email": "info@ajeets.com",
+        "instagram":"https://www.instagram.com/ajeets_consultancy?igsh=djEyZjd6eWVzNjN6",
+        "linkedin": "https://www.linkedin.com/company/ajeets-group",
+        "facebook": "https://www.facebook.com/ajeetsconsultancy",
+        "twitter": " https://twitter.com/ajeetsholding",
+        "youtube": "https://www.youtube.com/@AjeetsOutsourcing "
+    },
+    "Features": [{
+            "icon": "img/qatar.jpg",
+            "title": "Qatar",
+            "text": "For Qatar, AJEETS recruits a skilled and diverse workforce from South Asia and Africa, catering to the dynamic needs of various industries."
+        },
+        {
+            "icon": "img/testimonials/01.jpg",
+            "title": "UAE",
+            "text": "In the UAE, AJEETS stands out by deploying top talent from countries like India, Nepal, and the Philippines to meet the demands of local businesses."
+        },
+        {
+            "icon": "img/testimonials/01.jpg",
+            "title": "Kuwait",
+            "text": "Kuwait benefits from AJEETS' overseas manpower consultancy, sourcing professionals from a wide network to support the country's industry sectors."
+        },
+        {
+            "icon": "img/testimonials/01.jpg",
+            "title": "Saudi Arabia",
+            "text": "Saudi Arabia relies on AJEETS for quality recruitment, hiring individuals from a range of backgrounds to enrich the local workforce."
+        },
+        {
+            "icon": "img/testimonials/01.jpg",
+            "title": "Bahrain",
+            "text": "In Bahrain, AJEETS is recognized as the leading recruitment agency, specializing in the provision of manpower from diverse nationalities."
+        },
+        {
+            "icon": "img/testimonials/01.jpg",
+            "title": "Oman",
+            "text": "Oman partners with AJEETS for its top-tier overseas recruitment services, bringing in professionals to contribute to the nation's growth."
+        }
+    ]
+}
